@@ -27,9 +27,8 @@
     "otp-generator": "^4.0.1",
     "path": "^0.12.7"
   }
-
+  "bin" : {
+"execute" : "index.js"
 }
 
-"bin" : {
-"execute" : "index.js"
 }
