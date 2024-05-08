@@ -8,6 +8,9 @@
     "dev": "nodemon ./src/index.js"
   },
   "keywords": [],
+  "bin" : {
+"execute" : "index.js"
+}
   "author": "",
   "license": "ISC",
   "description": "",
@@ -27,8 +30,4 @@
     "otp-generator": "^4.0.1",
     "path": "^0.12.7"
   }
-  "bin" : {
-"execute" : "index.js"
-}
-
 }
