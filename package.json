@@ -10,7 +10,7 @@
   "keywords": [],
   "bin" : {
 "execute" : "index.js"
-}
+},
   "author": "",
   "license": "ISC",
   "description": "",
